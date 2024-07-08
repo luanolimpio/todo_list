@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="type_something">Digite alguma coisa...</string>
+    <string name="add">Adicionar</string>
+    <string name="empty_state">Nenhum tarefa encontrada</string>
+    <string name="delete">Exclusão</string>
+    <string name="are_you_sure_you_want_to_remove_this_item">Tem certeza que deseja remover esse item?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+</resources>
