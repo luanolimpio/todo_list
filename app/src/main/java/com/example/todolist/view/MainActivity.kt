@@ -3,13 +3,9 @@ package com.example.todolist.view
 import android.os.Bundle
 import android.view.View
 import android.view.inputmethod.EditorInfo
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.todolist.R
 import com.example.todolist.databinding.ActivityMainBinding
 import com.example.todolist.entities.TodoEntity
 import com.example.todolist.view.adapter.TodoAdapter
