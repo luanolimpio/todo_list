@@ -6,7 +6,7 @@ Todo List is an Android app for managing to-do lists. With this app, you can qui
 
 Add/Complete  | Remove
 ------------- | -------------
-<img src="https://github.com/LuanMaia1234/todo_list/blob/main/assets/preview/add_check_todo.gif" width="400"/> | <img src="https://github.com/LuanMaia1234/todo_list/blob/main/assets/preview/remove_todo.gif" width="400"/>
+<img src="https://github.com/LuanMaia1234/todo_list/blob/main/assets/preview/add_check_todo.gif" width="350"/> | <img src="https://github.com/LuanMaia1234/todo_list/blob/main/assets/preview/remove_todo.gif" width="350"/>
 
 ## 📚 Tech Stack
 
