@@ -15,6 +15,7 @@ Add/Complete  | Remove
     - [X] Singleton
     - [X] Repository 
 - [X] Solid
+- [X] ViewBinding
 - [X] LiveData
 - [X] Room Database
 
